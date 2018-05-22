@@ -36,6 +36,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         quiz = new Quiz();
 
+
         equationTextView = (TextView)findViewById(R.id.tvEquation);
 
         radioAnswer1 = (RadioButton)findViewById(R.id.radioAnswer1);
